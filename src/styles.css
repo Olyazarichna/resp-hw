@@ -91,3 +91,11 @@ span {
 h3 {
   margin-top: 20px;
 }
+@media screen and (max-width: 768px) {
+  .row {
+    margin-bottom: 30px;
+  }
+  .button {
+    font-size: 10px;
+  }
+}
